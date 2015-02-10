@@ -1,0 +1,8 @@
+{
+  "name": "github-custom-query",
+  "version": "0.0.0",
+  "dependencies": {
+    "jquery": "~2.1.3"
+  },
+  "devDependencies": {}
+}
